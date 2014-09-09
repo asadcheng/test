@@ -1,3 +1,9 @@
-#include <stdio>
+#include <stdio.h>
 
-afsjlj
+
+int chengpeng(int input)
+{
+
+   return 0;
+}
+
